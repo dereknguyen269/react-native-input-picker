@@ -1,0 +1,43 @@
+
+{
+  "name": "react-native-input-picker",
+  "version": "1.0.1",
+  "description": "A <Picker /> component for TextInput react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dereknguyen269/react-native-input-picker.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "modal",
+    "box",
+    "modalbox",
+    "window",
+    "swipe",
+    "picker",
+    "input",
+    "text input",
+    "input picker"
+  ],
+  "dependencies": {
+    "native-base": "0.5.11"
+  },
+  "author": "Libra-",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "^0.29.0",
+    "react-native-windows": "^0.29.0"
+
+  },
+  "bugs": {
+    "url": "https://github.com/minhquan4080/react-native-input-picker/issues"
+  },
+  "homepage": "https://github.com/minhquan4080/react-native-input-picker#readme"
+}
